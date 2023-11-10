@@ -1,0 +1,17 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "Testing nightwatch framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruninho2104",
+  "license": "ISC",
+  "devDependencies": {
+    "@nightwatch/mobile-helper": "^0.1.12",
+    "appium": "^2.0.1",
+    "appium-uiautomator2-driver": "^2.34.0",
+    "nightwatch": "^3.2.1"
+  }
+}
