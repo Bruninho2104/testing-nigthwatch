@@ -1,2 +1,2 @@
 # testing-nightwatch
-The purpose of this repository is to register my tests at the nightwatch.js framework.
+The purpose of this repository is to register my tests and my learning progress at the nightwatch.js framework.
